@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2.1 - Twierdzenie Pitagorasa", "Zadanie 2.1 - Twierdzenie Pitagorasa\Zadanie 2.1 - Twierdzenie Pitagorasa.csproj", "{A42C5D1C-43AC-48ED-93A6-521EC211CF28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2.2 - Kalkulator BMI", "Zadanie 2.2 - Kalkulator BMI\Zadanie 2.2 - Kalkulator BMI.csproj", "{616B26EF-94BF-4935-8423-50227EB9B928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2.3 - Kantor", "Zadanie 2.3 - Kantor\Zadanie 2.3 - Kantor.csproj", "{FAF06599-9DF2-4FF7-AA94-A3EC221ADB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2.4 - Kontrola dostępu", "Zadanie 2.4 - Kontrola dostępu\Zadanie 2.4 - Kontrola dostępu.csproj", "{238CB5A2-18DB-4DFA-8BB6-F26E5F70344F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2.5 - Pierwiastki równania kwadratowego", "Zadanie 2.5 - Pierwiastki równania kwadratowego\Zadanie 2.5 - Pierwiastki równania kwadratowego.csproj", "{A63DC9AC-34FE-4146-A698-CE010BCDE371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42C5D1C-43AC-48ED-93A6-521EC211CF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42C5D1C-43AC-48ED-93A6-521EC211CF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42C5D1C-43AC-48ED-93A6-521EC211CF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42C5D1C-43AC-48ED-93A6-521EC211CF28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616B26EF-94BF-4935-8423-50227EB9B928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616B26EF-94BF-4935-8423-50227EB9B928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616B26EF-94BF-4935-8423-50227EB9B928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616B26EF-94BF-4935-8423-50227EB9B928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF06599-9DF2-4FF7-AA94-A3EC221ADB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF06599-9DF2-4FF7-AA94-A3EC221ADB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF06599-9DF2-4FF7-AA94-A3EC221ADB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF06599-9DF2-4FF7-AA94-A3EC221ADB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238CB5A2-18DB-4DFA-8BB6-F26E5F70344F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238CB5A2-18DB-4DFA-8BB6-F26E5F70344F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238CB5A2-18DB-4DFA-8BB6-F26E5F70344F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238CB5A2-18DB-4DFA-8BB6-F26E5F70344F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63DC9AC-34FE-4146-A698-CE010BCDE371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63DC9AC-34FE-4146-A698-CE010BCDE371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63DC9AC-34FE-4146-A698-CE010BCDE371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63DC9AC-34FE-4146-A698-CE010BCDE371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
