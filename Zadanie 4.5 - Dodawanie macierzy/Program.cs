@@ -15,7 +15,7 @@ public class SamplesArrayList  {
             for (j = 0; j < d; j++)
             {
                 c[i,j] = a[i, j] + b[i, j];
-                //Console.Write(c[i,j]);
+                
             }
         }
         
@@ -26,9 +26,6 @@ public class SamplesArrayList  {
             }
             Console.WriteLine();
         }
-        
-        
-        
         
     }
     
