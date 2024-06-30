@@ -42,6 +42,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 5.5 - Obsługa wyj�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 5.6 - Ciąg Fibonacciego", "Zadanie 5.6 - Ciąg Fibonacciego\Zadanie 5.6 - Ciąg Fibonacciego.csproj", "{24F0592A-2673-4187-A1D2-F3588F5AA312}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programowanie Obiektowe Ćwiczenie 1 - Podstawy", "Programowanie Obiektowe Ćwiczenie 1 - Podstawy\Programowanie Obiektowe Ćwiczenie 1 - Podstawy.csproj", "{18146D17-BC69-49B6-A53E-EB403AB85780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programowanie Obiektowe Ćwiczenie 2 - Podstawy", "Programowanie Obiektowe Ćwiczenie 2 - Podstawy\Programowanie Obiektowe Ćwiczenie 2 - Podstawy.csproj", "{8DF69FC0-BD62-4B0E-AD68-775227E5FC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programowanie Obiektowe Ćwiczenie 3 - Dziedziczenie", "Programowanie Obiektowe Ćwiczenie 3 - Dziedziczenie\Programowanie Obiektowe Ćwiczenie 3 - Dziedziczenie.csproj", "{B2AC0701-A42C-47B1-9998-567728EA36E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +138,17 @@ Global
 		{24F0592A-2673-4187-A1D2-F3588F5AA312}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F0592A-2673-4187-A1D2-F3588F5AA312}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F0592A-2673-4187-A1D2-F3588F5AA312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18146D17-BC69-49B6-A53E-EB403AB85780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18146D17-BC69-49B6-A53E-EB403AB85780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18146D17-BC69-49B6-A53E-EB403AB85780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18146D17-BC69-49B6-A53E-EB403AB85780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF69FC0-BD62-4B0E-AD68-775227E5FC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF69FC0-BD62-4B0E-AD68-775227E5FC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF69FC0-BD62-4B0E-AD68-775227E5FC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF69FC0-BD62-4B0E-AD68-775227E5FC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AC0701-A42C-47B1-9998-567728EA36E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AC0701-A42C-47B1-9998-567728EA36E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AC0701-A42C-47B1-9998-567728EA36E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AC0701-A42C-47B1-9998-567728EA36E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
