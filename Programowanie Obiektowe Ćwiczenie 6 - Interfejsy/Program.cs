@@ -114,7 +114,6 @@ class Program
                     Console.WriteLine("Invalid choice. Please try again.");
                     break;
             }
-
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
         }

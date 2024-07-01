@@ -65,6 +65,7 @@ public class BankAccount
                 Console.WriteLine("2. Manage existing bank account");
                 Console.WriteLine("3. Exit");
                 Console.Write("Choose an option: ");
+                
                 string choice = Console.ReadLine();
 
                 Console.Clear();

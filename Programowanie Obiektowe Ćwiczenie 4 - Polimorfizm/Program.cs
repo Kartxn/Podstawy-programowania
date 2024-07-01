@@ -202,6 +202,7 @@ class Program
     static void DisplayDevices()
     {
         Console.WriteLine("Devices:");
+        
         foreach (var device in devices)
         {
             device.DisplayDetails();
